@@ -1,8 +1,8 @@
 baseURL = ""
 languageCode = "en-us"
 paginate = 6
-theme = "themes/portio"
-title = "Portio"
+theme = "../themes/portio"
+title = "SRFLIO"
 # Main Menu
 # [[menu.main]]
 # name = "Home"
