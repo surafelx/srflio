@@ -1,13 +1,23 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
-content: >
-  # I am here for your personal business
+topTitle: NEW COURSE
+title: >
+  ## Welcome to SRFLiO
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Enjoy full-fledged courses, cool projects and articles 
+  on web development and programming.
+content: >
+  # Java Beginner Course
+
+side: >
+   #### UI/UX Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+
+
+buttonName: Get Started
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/service/ui-ux.svg
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
